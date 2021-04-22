@@ -1,5 +1,4 @@
-# Face Mask Detection and Record Keeping System
-
+# Audio Event Detection using CNN
 
 <p align="center">
     <a href="https://github.com/adityavermaAI/Audio-Event-Detection"><strong>Explore the docs »</strong></a>
@@ -29,7 +28,10 @@
 
 Face mask detection is a technique to find out whether someone is wearing a mask or not. It is similar to detect any object from a scene.
 
-## Dataset Collection
+![face_mask_bi](https://user-images.githubusercontent.com/72017583/115700278-22d00200-a384-11eb-8bba-7a49f117984e.gif)
+
+
+## Dataset
 
 Data from two different sources are collected for training and testing the model. We collected a total of about 2000 images of people with masks and about 2000 images of people without a mask. For training purposes, 90% images of each class are used and the rest of the images are utilized for testing purposes. Figure. 3 shows some of the images of two different classes.
 
@@ -52,14 +54,6 @@ Figure below shows the Block diagram of the procedure followed in this project.
 Figure below shows the architecture of the model used in this project.
 
 ![image](https://user-images.githubusercontent.com/72017583/114194765-6e8ab080-996d-11eb-84bb-700caacddccb.png)
-
-## Training
-
-The audio files in the given dataset were read using the Librosa library at the sampling rate of 22.5KHz. I allowed maximum audio length of 4s at the time of reading files which made the maximum no. of samples present in one file = 88200 . For each file, if file size was less than 88200, then I have used zero padding to make them equal to 88200 samples.
-
-Then I calculated the Short Time Fourier Transform of the given data. After this, I got the spectrogram with size 513X401 of the given audio files. I resampled them to the size 171X 401.Then I used this data as input to our model along with the class labels for training purpose.
-
-
 
 ## Evaluation
 

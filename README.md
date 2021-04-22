@@ -4,7 +4,7 @@
     <a href="https://github.com/adityavermaAI/Audio-Event-Detection"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="">View Demo</a>
+    <a href="#about-the-project">View Demo</a>
     ·
     <a href="https://github.com/adityavermaAI/Audio-Event-Detection/issues">Report Bug</a>
     ·

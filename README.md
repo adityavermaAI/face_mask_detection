@@ -29,6 +29,8 @@
 
 In this project, I made a face mask detection system which detects whether the person is wearing a mask or not. If person without mask is detected then a face recognition system identifies the person and the necessary data like name of that person, date, time is saved in a database for further analysis.
 
+![face_mask_demo](https://user-images.githubusercontent.com/72017583/115713321-7dbd2580-a393-11eb-898d-4e3bd11f9e51.gif)
+
 I also made an interactive Power Bi dashboard to show the trends in the data stored by the system. This dashboard can be accessed from anywhere, anytime through online services. This data is refreshed every second to show the live changes in the data.
 
 ![Face_mask_bi](https://user-images.githubusercontent.com/72017583/115701276-3f206e80-a385-11eb-908a-25b18b091bb0.gif)

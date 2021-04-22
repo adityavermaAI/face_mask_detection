@@ -1,14 +1,14 @@
-# Face Mask Detection and Record Keeping system
+# Audio Event Detection using CNN
 
 <p align="center">
-    <a href="https://github.com/adityavermaAI/face_mask_detection"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/adityavermaAI/Audio-Event-Detection"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://user-images.githubusercontent.com/72017583/114261809-58770180-99fa-11eb-94d8-6144e3da168e.mp4">View Demo</a>
+    <a href="">View Demo</a>
     ·
-    <a href="https://github.com/adityavermaAI/face_mask_detection/issues">Report Bug</a>
+    <a href="https://github.com/adityavermaAI/Audio-Event-Detection/issues">Report Bug</a>
     ·
-    <a href="https://github.com/adityavermaAI/face_mask_detection/issues">Request Feature</a>
+    <a href="https://github.com/adityavermaAI/Audio-Event-Detection/issues">Request Feature</a>
 </p>
 
 <details open="open">
@@ -59,7 +59,7 @@ Figure below shows the architecture of the model used in this project.
 
 ## Training
 
-Figure below shows the training graph of the model.
+In Figure below, the accuracy curve of training and testing is shown for about 5 epochs. From figure, it is realized that the training and testing accuracy are almost identical. This means the model has a decent generalization ability for previously unseen data and it does not cause overfitting of the training data.
 
 ![image](https://user-images.githubusercontent.com/72017583/115590693-e30b0b00-a2ee-11eb-8c6f-a58f60a8d9d2.png)
 
@@ -72,8 +72,6 @@ In the figure below, we can see that the developed architecture misclassifies on
 Figure below shows that the system has very good precision and recall score as well as good accuracy.
 
 ![image](https://user-images.githubusercontent.com/72017583/115590922-29f90080-a2ef-11eb-94a1-a4cf221a84a3.png)
-
-In Figure below, the accuracy curve of training and testing is shown for about 5 epochs. From figure, it is realized that the training and testing accuracy are almost identical. This means the model has a decent generalization ability for previously unseen data and it does not cause overfitting of the training data.
 
 
 ## Contact

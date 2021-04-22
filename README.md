@@ -1,14 +1,14 @@
-# Audio Event Detection using CNN
+# Face Mask Detection and Record Keeping system
 
 <p align="center">
-    <a href="https://github.com/adityavermaAI/Audio-Event-Detection"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/adityavermaAI/face_mask_detection"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://user-images.githubusercontent.com/72017583/114261809-58770180-99fa-11eb-94d8-6144e3da168e.mp4">View Demo</a>
     ·
-    <a href="https://github.com/adityavermaAI/Audio-Event-Detection/issues">Report Bug</a>
+    <a href="https://github.com/adityavermaAI/face_mask_detection/issues">Report Bug</a>
     ·
-    <a href="https://github.com/adityavermaAI/Audio-Event-Detection/issues">Request Feature</a>
+    <a href="https://github.com/adityavermaAI/face_mask_detection/issues">Request Feature</a>
 </p>
 
 <details open="open">

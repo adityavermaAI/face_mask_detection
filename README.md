@@ -28,7 +28,7 @@
 
 Face mask detection is a technique to find out whether someone is wearing a mask or not. It is similar to detect any object from a scene.
 
-![face_mask_bi](https://user-images.githubusercontent.com/72017583/115700278-22d00200-a384-11eb-8bba-7a49f117984e.gif)
+![Face_mask_bi](https://user-images.githubusercontent.com/72017583/115701276-3f206e80-a385-11eb-908a-25b18b091bb0.gif)
 
 
 ## Dataset

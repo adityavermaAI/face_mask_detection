@@ -15,12 +15,12 @@
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li><a href="#about-the-project">About The Project<a></li>
-    <li><a href="#Procedure">Dataset</a></li>
-    <li><a href="#Dataset">Image Processing</a></li>
-    <li><a href="#Image-Processing">Procedure</a></li>
-    <li><a href="#Model">Evaluation</a></li>
-    <li><a href="#Training">Evaluation</a></li>
-    <li><a href="#Evaluation">Evaluation</a></li>
+    <li><a href="#procedure">Procedure</a></li>
+    <li><a href="#dataset">Dataset</a></li>
+    <li><a href="#image-Processing">Image Processing</a></li>
+    <li><a href="#model">Model</a></li>
+    <li><a href="#training">Training</a></li>
+    <li><a href="#evaluation">Evaluation</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -32,7 +32,6 @@ In this project, I made a face mask detection system which detects whether the p
 I also made an interactive Power Bi dashboard to show the trends in the data stored by the system. This dashboard can be accessed from anywhere, anytime through online services. This data is refreshed every second to show the live changes in the data.
 
 ![Face_mask_bi](https://user-images.githubusercontent.com/72017583/115701276-3f206e80-a385-11eb-908a-25b18b091bb0.gif)
-
 
 ## Procedure
 

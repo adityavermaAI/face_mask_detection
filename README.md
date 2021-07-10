@@ -57,7 +57,7 @@ The images captured by the cameras required preprocessing before going to the ne
 
 Figure below shows the architecture of the model used in this project.
 
-![Screenshot (17)](https://user-images.githubusercontent.com/72017583/125159703-9a991600-e196-11eb-9247-80e9f0c4bf59.png)
+![image](https://user-images.githubusercontent.com/72017583/125159763-0d09f600-e197-11eb-92ba-42a1e92ebd98.png)
 
 ## Training
 
